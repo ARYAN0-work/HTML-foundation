@@ -1,8 +1,6 @@
-## HTML FOUNDATION 
+## HTML 
 
-this repo tracks mine html poject/progress.
-
-## PHASE 1
+-this repo tracks mine html poject/progress.
 
 ### PROJECT 1- PERSONAL PROFILE PAGE 
 - Built using semantic HTML
