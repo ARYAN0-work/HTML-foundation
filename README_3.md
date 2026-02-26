@@ -1,0 +1,9 @@
+## HTML PROJECT 3
+
+## TAGS USED
+-HEADER, NAV, MAIN, SECTION, ARTICLE, FOOTER
+-FIGURE, FIGCAPTION
+-LIST, ANCHOR
+
+## PURPOSE
+practicing html to make better foundations 
